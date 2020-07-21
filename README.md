@@ -1,4 +1,3 @@
-# Major-Projects
 
 ## Project Intern 
 - A customized Django administrator which have sorting,searching and filtering capablities.
